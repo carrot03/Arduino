@@ -4,8 +4,7 @@ This project demonstrates a simple Arduino setup where three LEDs (Green, Yellow
 
 ## Live Demo
 
-
-[video demo](./assets/arduino-led-lights-video.mp4)
+https://github.com/carrot03/Arduino/assets/113475602/8fdbbbdf-5b8c-4d74-9c4e-60dbcd532dee
 
 ## How it works
 1. **Circuit Setup**: Each LED is connected to a digital pin on the Arduino through a resistor to limit the current.
@@ -23,7 +22,7 @@ This project demonstrates a simple Arduino setup where three LEDs (Green, Yellow
 - 3 x Male-Male Jumper wires/Solid Core Wires
 
 ## Setup
-<img src="./assets/arduino-led-lights.jpg" style="width: 70%" alt="image location: ./assets/arduino-led-lights.jpg"
+<img src="./assets/arduino-led-lights.jpg" style="width: 50rem" alt="image location: ./assets/arduino-led-lights.jpg"
 />
 
 ## References
