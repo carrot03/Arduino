@@ -13,9 +13,9 @@ https://github.com/carrot03/Arduino/assets/113475602/8fdbbbdf-5b8c-4d74-9c4e-60d
 
 ## Components:
 
-- Arduino Uno.
-- 3 x resistor.
-- 3 x LED
+- Arduino Mega 2560
+- 3 x Resistors
+- 3 x LEDs
   - 1 x red
   - 1 x green
   - 1 x yellow
