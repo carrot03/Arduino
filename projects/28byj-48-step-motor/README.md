@@ -3,6 +3,7 @@ This project demonstrates how to use a 28BYJ-48 stepper motor with a ULN2003A dr
 
 ## [Live Demo](./assets/28BYJ-48-step-motor.mp4)
 
+https://github.com/user-attachments/assets/3bd92e57-b53c-4955-8fb0-265501a93fe9
 
 ## How it works
 To activate the motor, a LOW signal should be sent to the coils at a certain frequency, explained more in **Table 1** below! 
@@ -23,7 +24,7 @@ To activate the motor, a LOW signal should be sent to the coils at a certain fre
 ## Circuit Schematic
 <image src="./assets/28BYJ-48-step-motor_schem.png" width="50%" hight="50%">
 
-[Fritzing project](./assets/28BYJ-48-step-motor.fzz)
+[Fritzing project](./28BYJ-48-step-motor.fzz)
 
 **28BYJ-48 step motor details:**
 ---
