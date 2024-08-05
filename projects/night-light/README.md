@@ -4,7 +4,7 @@ This project demonstrates the usage of LDR (Light Dependent Resistor) sensor, Ph
 
 ## [Live Demo](./assets/light-night.mp4)
 
-![https://github.com/user-attachments/assets/f9abf939-33fb-4727-a9c6-722385baa60d]()
+https://github.com/user-attachments/assets/f9abf939-33fb-4727-a9c6-722385baa60d
 
 ## How it works
 1. **Circuit Setup**: the LED and the LDR are connected to a digital pin on the Arduino through a resistor to limit the current. 
@@ -18,7 +18,7 @@ This project demonstrates the usage of LDR (Light Dependent Resistor) sensor, Ph
 - Wires
 
 ## Set up
-![image](./assets/night-light.jpg)
+<img src="./assets/night-light.jpg" width="50%" hight="50%"> 
 
 ## Wiring Diagram
 
