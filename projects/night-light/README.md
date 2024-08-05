@@ -15,18 +15,23 @@ https://github.com/user-attachments/assets/f9abf939-33fb-4727-a9c6-722385baa60d
 - 1x Breadboard
 - 2x 220 Ohm Resistors
 - 1x LED
+- 1x Photoresistor
 - Wires
 
 ## Set up
 <img src="./assets/night-light.jpg" width="50%" hight="50%"> 
 
+</br>
+
 ## Wiring Diagram
 
-////
+<img src="./assets/breadboard-night-light.svg" width="50%" hight="50%"> 
 
 ## Circuit Schematic
 
-////
+<img src="./assets/schematic-night-light.svg" width="50%" hight="50%"> 
+
+[Fritzing project](./assets/night-light.fzz)
 
 ## References
 - [Arduino-Night-Light](https://www.instructables.com/Arduino-Night-Light)
