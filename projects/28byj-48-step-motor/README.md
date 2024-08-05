@@ -16,13 +16,13 @@ To activate the motor, a LOW signal should be sent to the coils at a certain fre
 
 
 ## Set up
-<img src="./assets/28BYJ-48-step-motor-setup.jpg" width="50%" hight="50%"> 
+<img src="./assets/28byj-48-step-motor-setup.jpg" width="50%" hight="50%"> 
 
 ## Wiring Diagram
-<img src="./assets/28BYJ-48-step-motor_bb.png" width="50%" hight="50%">
+<img src="./assets/28byj-48-step-motor_bb.png" width="50%" hight="50%">
 
 ## Circuit Schematic
-<img src="./assets/28BYJ-48-step-motor_schem.png" width="50%" hight="50%">
+<img src="./assets/28byj-48-step-motor_schem.png" width="50%" hight="50%">
 
 [Fritzing project](./28BYJ-48-step-motor.fzz)
 
