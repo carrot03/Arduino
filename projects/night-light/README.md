@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/f9abf939-33fb-4727-a9c6-722385baa60d
 
 ## Circuit Schematic
 
-<img src="./assets/schematic-night-light.svg" width="50%" hight="50%"> 
+<img src="./assets/schematic-night-light.svg" width="50%" hight="50%" color="grey"> 
 
 [Fritzing project](./assets/night-light.fzz)
 
