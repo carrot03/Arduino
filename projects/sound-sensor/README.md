@@ -8,6 +8,7 @@ https://github.com/user-attachments/assets/e4b58002-cdfa-4b54-91da-cae17e5d4bda
 [**Serial Plotter Demo**](./assets/sound-sensor-serial-plotter.mp4)
 
 https://github.com/user-attachments/assets/a654b19c-7af5-4ac2-a2a1-4852e062c3f0
+*note*: The pause occurs when the detected sound is higher than the set threshold value in code, because of the added delay value of 2ms.
 
 ## How it works
 When the detected analog data read by the AOUT is higher than the set threshold value, the LED goes on and the value shows up on the LCD screen. 
